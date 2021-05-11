@@ -1,2 +1,3 @@
 # JS-basics
-javascript practice
+javascript practice  
+basic stuff
